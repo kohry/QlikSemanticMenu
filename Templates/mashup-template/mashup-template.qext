@@ -1,0 +1,11 @@
+{
+    "type": "mashup-template",
+    "name": "Basic mashup template with absolute positioning",
+	"description": "Basic mashup template with absolute positioning",
+    "author": "",
+	"homepage" : "",
+	"keywords" : "qlik-sense, visualization, mashup",
+	"license" : "",
+	"repository" : "",
+    "dependencies" : { "qlik-sense" : ">=1.0.x" }
+}
